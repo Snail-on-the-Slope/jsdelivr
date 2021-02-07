@@ -45,7 +45,7 @@
       </table>
     </div>
 
-    <nav aria-label="Page navigation example" v-if="loading">
+    <nav v-if="loading">
       <ul class="pagination justify-content-center">
         <li class="page-item" :class="{ disabled: currentPage === 0 }">
           <div class="page-link" @click="prevPage">Previous</div>
