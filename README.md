@@ -1,4 +1,6 @@
-# jsdelivr
+DEMO: https://snail-on-the-slope.github.io/jsdelivr/.
+
+# jsDelivr
 
 ## Project setup
 ```
